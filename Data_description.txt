@@ -1,0 +1,3 @@
+Data will be comprised of datasets for the New York City and Toronto neighborhoods, from the Foursquare data provider.
+Both datasets will be properly cleaned and processed to extract the relevant and necessary informations in order to compare the neighborhoods of the two cities,
+in terms of financial status and assess their similarity level.
